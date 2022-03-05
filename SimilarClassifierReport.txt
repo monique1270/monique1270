@@ -1,0 +1,2 @@
+SimilarImageClassifier:2022-03-05 00:05:11
+Grouping Finished, Taken Time in ms :806
